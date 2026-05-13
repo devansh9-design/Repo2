@@ -1,0 +1,5 @@
+repo=Repo2
+branch=feature/repo2-ci
+sequence=6
+updated_at=2026-05-13T23:53:41.113200+00:00
+file_index=1
